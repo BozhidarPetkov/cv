@@ -88,25 +88,25 @@ a:hover {
 }
 
 .skill1 {
-  width: 12rem;
+  width: 30%;
   float: left;
   margin-right: 30px;
 }
 
 .skill2 {
-  width: 12rem;
+  width: 30%;
   float: right;
   margin-left: 30px;
 }
 
 .skill3 {
-  width: 12rem;
+  width: 30%;
   float: left;
   margin-right: 30px;
 }
 
 .skill4 {
-  width: 12rem;
+  width: 30%;
   float: right;
   margin-left: 30px;
 }
